@@ -44,7 +44,7 @@ export const Navigation = () => {
               href="/"
               onClick={() => setIsMenuOpen(false)}
             >
-              My Portfolio 2025
+              My Portfolio
             </Link>
           </motion.div>
         </NavbarBrand>
